@@ -11,7 +11,7 @@
 # after making changes
 
 `git add .`
-- important: must be in the folder `final`
-`git commit -m "[desciption of commit]"`
-`git push origin`
+- important: must be in the folder `final`  
+`git commit -m "[desciption of commit]"`  
+`git push origin`  
 
