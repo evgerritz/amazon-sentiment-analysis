@@ -10,7 +10,7 @@
 
 # after making changes
 
-1. `git add .`
+1. Register your changes with the repository: `git add .`
     - important: must be in the folder `final`  
 2. `git commit -m "[desciption of commit]"`  
 3. `git push origin`  
