@@ -1,1 +1,4 @@
 *.json
+.ipynb_checkpoints/*
+.ipynb_checkpoints/LING_227_Final_Project_Code-checkpoint.ipynb
+__pycache__/
